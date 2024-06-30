@@ -1,0 +1,4 @@
+0.0, celsius, kelvin, 273.15
+1.0, celsius, kelvin, 274.15
+0.0, acelsius, kelvin, NaN
+-274.0, celsius, kelvin, NaN
